@@ -1,0 +1,46 @@
+*{
+  background-image: url(port_bg1.avif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.navbar ul{
+  list-style-type: none;
+  text-align: right;
+
+}
+.navbar ul li{
+  list-style: none;
+  display: inline-block;
+  padding: 8px 12px;
+  position: relative;
+}
+.navbar ul li a{
+  color: rgb(86, 75, 75);
+  text-decoration: none;
+  font-size: 13 px;
+}
+#headings{
+  color: slategray;
+}
+#auto{
+  color: rgb(155, 91, 70) ;
+}
+.pic{ 
+  width: 100px;
+  float: left;
+  margin: 20px;
+}
+.social a{
+  color: rgb(86, 75, 75)
+}
+.c-form{
+  color:rgb(86, 75, 75) ;
+  position: relative;
+  left: 300px;
+}
+.form{
+  position: relative;
+  left: 300px;
+}
