@@ -26,9 +26,11 @@
 }
 #auto{
   color: rgb(155, 91, 70) ;
+  font-size: larger;
+  
 }
 .pic{ 
-  width: 100px;
+  width: 150px;
   float: left;
   margin: 20px;
 }
@@ -43,4 +45,16 @@
 .form{
   position: relative;
   left: 300px;
+}
+#hire{
+  color: rgb(155, 91, 70) ;
+  border-radius: 5px;
+  font-size: larger;
+  position: relative;
+  left: 200px;
+  top: 150px; 
+}
+#video{
+  position: absolute;
+  
 }
